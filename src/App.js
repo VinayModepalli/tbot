@@ -27,7 +27,7 @@ function App() {
       {/*<header className="App-header">*/}
         <div className="container"  >
           <form className="form-signin" >
-            <h2 className="form-signin-heading">Make me a Sandwitch</h2>
+            <h1 className="form-signin-heading">Make me a Sandwitch</h1>
             <input type="text" className="form-control" placeholder="Title" required autofocus onChange={(e) => setTitle(e.target.value)} />
             <input type="text" className="form-control" placeholder="Description" onChange={(e) => setDescription(e.target.value)} />
             <input type="text" className="form-control" placeholder="Package" onChange={(e) => setPackage(e.target.value)} />
