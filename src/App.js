@@ -71,6 +71,3 @@ function App() {
 }
 
 export default App;
-
-
-//ref : https://www.arclab.com/en/kb/htmlcss/how-to-copy-text-from-html-element-to-clipboard.html

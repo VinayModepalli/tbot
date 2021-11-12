@@ -1,0 +1,11 @@
+GIT COMMANDS
+
+git add .
+git commit -m "My commit"
+git push --set-upstream origin main
+npm run deploy
+
+RESOURCES
+
+For Clipboard Copy https://www.arclab.com/en/kb/htmlcss/how-to-copy-text-from-html-element-to-clipboard.html
+For Bootstrap Design https://codepen.io/deequez/pen/gqDjA
